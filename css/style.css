@@ -1,0 +1,28 @@
+
+div{
+	color: rgb(153, 5, 37);
+}
+
+span{
+	font-size: 20px0;
+	color: gold;
+}
+
+.yico p, .yico h2{
+	color: darkmagenta;
+}
+
+span.yico {color: darkblue;}
+
+
+.fiziologi span{
+	color: orangered;
+} 
+
+.targarien>p{
+	color: rgb(67, 51, 68);
+	
+}
+#p1{color: chartreuse;}
+
+
